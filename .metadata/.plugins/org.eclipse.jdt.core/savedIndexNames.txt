@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+A:\MIUCourses\SWE\Mihre\WorkSpace_STS\.metadata\.plugins\org.eclipse.jdt.core
+1142915569.index
+422934093.index
+2495182863.index

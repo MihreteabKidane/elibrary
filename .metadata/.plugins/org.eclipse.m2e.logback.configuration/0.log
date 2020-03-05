@@ -1,0 +1,52 @@
+2020-03-04 21:10:53,331 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-03-04 21:18:10,404 [Worker-13: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.mum.cs.cs425.demowebapps.eLibrary:eLibrary:0.0.1-SNAPSHOT @ A:\MIUCourses\SWE\Mihre\WorkSpace_STS\eLibrary\pom.xml.
+2020-03-04 21:18:10,404 [Worker-11: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.mum.cs.cs425.demowebapps.eLibrary:eLibrary:0.0.1-SNAPSHOT @ A:\MIUCourses\SWE\Mihre\WorkSpace_STS\eLibrary\pom.xml.
+2020-03-04 21:18:24,225 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 21:18:24,233 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 21:18:24,257 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 21:18:24,273 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 21:18:24,273 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\MIUCourses\SWE\Mihre\WorkSpace_STS\eLibrary\src\test\resources
+2020-03-04 21:18:27,046 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 21:18:27,054 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 21:18:27,077 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 21:18:27,087 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 21:18:27,087 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\MIUCourses\SWE\Mihre\WorkSpace_STS\eLibrary\src\test\resources
+2020-03-04 21:18:28,291 [Worker-18: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.mum.cs.cs425.demowebapps.eLibrary:eLibrary:0.0.1-SNAPSHOT @ A:\MIUCourses\SWE\Mihre\WorkSpace_STS\eLibrary\pom.xml.
+2020-03-04 21:18:31,231 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 21:18:31,233 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 21:18:31,237 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 21:18:31,241 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 21:18:31,241 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\MIUCourses\SWE\Mihre\WorkSpace_STS\eLibrary\src\test\resources
+2020-03-04 21:26:50,770 [Worker-10: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.mum.cs.cs425.demowebapps.eLibrary:eLibrary:0.0.1-SNAPSHOT @ A:\MIUCourses\SWE\Mihre\WorkSpace_STS\eLibrary_DevTools\pom.xml.
+2020-03-04 21:26:52,124 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 21:26:52,125 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 21:26:52,128 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 21:26:52,223 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 21:26:52,223 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\MIUCourses\SWE\Mihre\WorkSpace_STS\eLibrary_DevTools\src\test\resources
+2020-03-04 21:26:54,589 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 21:26:54,590 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 21:26:54,594 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 21:26:54,603 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 21:26:54,604 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\MIUCourses\SWE\Mihre\WorkSpace_STS\eLibrary_DevTools\src\test\resources
+2020-03-04 21:27:10,841 [Worker-19: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.mum.cs.cs425.demowebapps.Mkweb:Mkweb:0.0.1-SNAPSHOT @ A:\MIUCourses\SWE\Mihre\WorkSpace_STS\Mkweb\pom.xml.
+2020-03-04 21:27:12,932 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 21:27:12,932 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 21:27:12,935 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 21:27:12,946 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 21:27:12,946 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\MIUCourses\SWE\Mihre\WorkSpace_STS\Mkweb\src\test\resources
+2020-03-04 21:27:14,768 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 21:27:14,769 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 21:27:14,773 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 21:27:14,780 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 21:27:14,781 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\MIUCourses\SWE\Mihre\WorkSpace_STS\Mkweb\src\test\resources
+2020-03-04 21:42:30,217 [Worker-20: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.mum.cs.cs425.demowebapps.Mkweb:Mkweb:0.0.1-SNAPSHOT @ A:\MIUCourses\SWE\Mihre\WorkSpace_STS\eRegistrar\pom.xml.
+2020-03-04 21:42:45,616 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 21:42:45,617 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 21:42:45,634 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 21:42:45,648 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 21:42:45,648 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\MIUCourses\SWE\Mihre\WorkSpace_STS\eRegistrar\src\test\resources
+2020-03-04 21:42:48,356 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 21:42:48,357 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 21:42:48,360 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 21:42:48,365 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 21:42:48,365 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\MIUCourses\SWE\Mihre\WorkSpace_STS\eRegistrar\src\test\resources
